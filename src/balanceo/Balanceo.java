@@ -4,7 +4,8 @@
  * and open the template in the editor.
  */
 package balanceo;
-
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
 /**
  *
  * @author lopez
